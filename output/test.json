@@ -1,0 +1,18 @@
+{
+  "channel": "",
+  "channel_id": 111111111,
+  "fetched_at": "",
+  "total_posts": 0,
+  "posts": [
+    {
+      "id": 0,
+      "date": "",
+      "text": "",
+      "views": 0,
+      "forwards": 0,
+      "replies": 0,
+      "media_type": "",
+      "edit_date": "",
+      "grouped_id": null
+    }]
+  }
